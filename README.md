@@ -20,6 +20,10 @@ This is largley bodges built upon bodges. Somehow, its actually really stable ev
 
 ## Gallery
 
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/d7085582-bc7a-4842-a34e-dc894e2de09c" />
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/a12d6aa2-5545-4564-a148-f3b9094cd8eb" />
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/c36c8ce6-0e5b-4f47-b02f-699264e9e478" />
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/20386d0a-ebee-4f6c-a65c-03a2dafbbbdb" />
 
 
 
