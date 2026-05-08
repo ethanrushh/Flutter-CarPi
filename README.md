@@ -1,4 +1,4 @@
-# elinux-carpi
+# Flutter CarPi
 
 A Flutter-based automotive interface designed for cherry-picked Raspberry Pi 5 Hardware.
 
