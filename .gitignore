@@ -1,0 +1,49 @@
+# Flutter/Dart related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android related
+android/**/gradlew
+android/**/gradlew.bat
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/src/main/res/values/strings.xml
+
+# iOS/macOS related
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.generated/
+macos/Flutter/Generated.xcconfig
+macos/Flutter/flutter_export_environment.sh
+macos/Flutter/App.framework
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/Pods/
+macos/.generated/
+
+# Linux related
+linux/flutter/ephemeral/
+
+# Web related
+web/generated_plugin_registrant.dart
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# OS related
+.DS_Store
+Thumbs.db
