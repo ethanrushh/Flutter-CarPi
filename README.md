@@ -13,6 +13,7 @@ Will run under Wayland on x86 for testing and development.
 - **Customizable UI**: Support for various wallpapers and shaders.
 - **System Integration**: GPIO control and graceful system shutdown capabilities.
 - **Great Performance**: 60fps, zero drops. Animations are butter.
+- **Cool backgrounds**: Change your background on the fly or better yet, use a cool shader as your background.
 
 ## An important note
 
