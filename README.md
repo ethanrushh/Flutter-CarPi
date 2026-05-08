@@ -1,10 +1,20 @@
 # elinux-carpi
 
-## Bluetooth
-Bluetooth relies on BlueZ. Strictly only a single bluetooth adapter is supported. 
-pipewire-audio is required for A2DP to work.
+A Flutter-based automotive interface designed for cherry-picked Raspberry Pi 5 Hardware.
 
-~~To stop bluetooth from auto-turning-on, edit `/etc/bluetooth/main.conf` and set `AutoEnable=false`~~
+Designed for a Pi 5 with CarPiHAT Pro 5 and Waveshare 10-inch MIPI-DSI Touchscreen. 
+Will run under Wayland on x86 for testing and development.
+
+
+## Features
+
+- **Bluetooth Support**: Integrated with BlueZ for audio and connectivity.
+- **CAN Bus Integration**: Support for vehicle CAN bus communication.
+- **Audio Management**: Advanced audio controls including EQ and volume management.
+- **Customizable UI**: Support for various wallpapers and shaders.
+- **System Integration**: GPIO control and system shutdown capabilities.
+
+## Installation
 
 Setup hint:
 
@@ -107,7 +117,6 @@ wireplumber.profiles = {
 ===========================
 
 
-
 sudo nano /etc/wireplumber/wireplumber.conf.d/50-disable-suspend-all-alsa.conf
 
 Fill with:
@@ -136,6 +145,11 @@ monitor.alsa.rules = [
 Edit `/etc/bluetooth/main.conf` and set `AutoEnable=false`
 
 
+
 ```
 
 And reboot.
+
+## License
+
+This project is licensed under the Non-Commercial Testing License. See [LICENSE](LICENSE) for more details.
