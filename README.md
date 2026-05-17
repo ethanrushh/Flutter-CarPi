@@ -43,7 +43,7 @@ Video is not implemented, by design currently. Its a distraction, and until I ca
 
 Download the latest release image (.img) and flash onto an SD card. Boot, and enjoy. On first boot, the filesystem will resize itself to the size of the SD card for you. On Linux, this can be done with:
 
-`dd bs=4M conv=fsync oflag=direct status=progress if=/home/ethan/Downloads/pi-gen/deploy/2026-05-17-carpi-os-configured.img of=/dev/sdx`
+`dd bs=4M conv=fsync oflag=direct status=progress if=path-to-carpi-os-configured.img of=/dev/sdx`
 
 Replace `sdx` with the path of your SD card. Back up your SD card first if you have important files! The whole thing will be erased.
 
