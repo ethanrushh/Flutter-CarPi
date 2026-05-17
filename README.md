@@ -5,6 +5,8 @@ A Flutter-based automotive interface designed for cherry-picked Raspberry Pi 5 H
 Designed for a Pi 5 with CarPiHAT Pro 5 and Waveshare 10-inch MIPI-DSI Touchscreen. 
 Will run under Wayland on x86 for testing and development.
 
+Images are generated using [Flutter-CarPi-pi-gen](https://github.com/ethanrushh/Flutter-CarPi-pi-gen)
+
 ## Features
 
 - **Bluetooth Support**: Integrated with BlueZ for audio and connectivity.
