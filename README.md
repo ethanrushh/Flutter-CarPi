@@ -18,10 +18,6 @@ Images are generated using [Flutter-CarPi-pi-gen](https://github.com/ethanrushh/
 - **Cool backgrounds**: Change your background on the fly or better yet, use a cool shader as your background.
 - **Actually Usable**: Designed to be used. Buttons are big and well spaced. Good for a moving vehicle.
 
-## An important note
-
-This is largley bodges built upon bodges. Somehow, its actually really stable even with a bit of torture testing in my own vehicle for a long time. That being said, a lot of this is just "oh I want this" over and over with some loose housekeeping to keep things from completely going to shit. This is also my first Flutter project. Ever. If you and others have an interest in such a project, I could build this "properly" with the community so we all have an open, *free* ~~(you know who you are)~~, well built, extensible carputer OS. I'm too dumb for Yocto.
-
 ## Gallery
 
 <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/d7085582-bc7a-4842-a34e-dc894e2de09c" />
@@ -29,6 +25,10 @@ This is largley bodges built upon bodges. Somehow, its actually really stable ev
 <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/c36c8ce6-0e5b-4f47-b02f-699264e9e478" />
 <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/20386d0a-ebee-4f6c-a65c-03a2dafbbbdb" />
 
+
+## An important note
+
+This is largley bodges built upon bodges. Somehow, its actually really stable even with a bit of torture testing in my own vehicle for a long time. That being said, a lot of this is just "oh I want this" over and over with some loose housekeeping to keep things from completely going to shit. This is also my first Flutter project. Ever. If you and others have an interest in such a project, I could build this "properly" with the community so we all have an open, *free* ~~(you know who you are)~~, well built, extensible carputer OS. I'm too dumb for Yocto.
 
 
 ## State of this project
